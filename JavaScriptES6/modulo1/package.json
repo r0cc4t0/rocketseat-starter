@@ -1,0 +1,30 @@
+{
+  "name": "modulo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/plugin-proposal-object-rest-spread": "^7.10.1",
+    "@babel/preset-env": "^7.10.2"
+  },
+  "scripts": {
+    "aula04": "babel ./aula04.js -o ./bundle_aula04.js",
+    "aula05": "babel ./aula05.js -o ./bundle_aula05.js",
+    "aula06": "babel ./aula06.js -o ./bundle_aula06.js",
+    "aula07": "babel ./aula07.js -o ./bundle_aula07.js",
+    "aula08": "babel ./aula08.js -o ./bundle_aula08.js",
+    "aula09": "babel ./aula09.js -o ./bundle_aula09.js",
+    "aula10": "babel ./aula10.js -o ./bundle_aula10.js",
+    "aula11": "babel ./aula11.js -o ./bundle_aula11.js",
+    "aula12": "babel ./aula12.js -o ./bundle_aula12.js",
+    "exercicio1": "babel ./exercicio1.js -o ./bundle_exercicio1.js",
+    "exercicio2": "babel ./exercicio2.js -o ./bundle_exercicio2.js",
+    "exercicio3": "babel ./exercicio3.js -o ./bundle_exercicio3.js",
+    "exercicio4": "babel ./exercicio4.js -o ./bundle_exercicio4.js",
+    "exercicio5": "babel ./exercicio5.js -o ./bundle_exercicio5.js",
+    "exercicio6": "babel ./exercicio6.js -o ./bundle_exercicio6.js",
+    "exercicio7": "babel ./exercicio7.js -o ./bundle_exercicio7.js"
+  }
+}
