@@ -7,7 +7,8 @@
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.10.1",
-    "@babel/preset-env": "^7.10.2"
+    "@babel/preset-env": "^7.10.2",
+    "lodash": "^4.17.21"
   },
   "scripts": {
     "aula04": "babel ./aula04.js -o ./bundle_aula04.js",
