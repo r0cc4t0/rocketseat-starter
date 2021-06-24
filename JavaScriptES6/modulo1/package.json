@@ -8,6 +8,8 @@
     "@babel/core": "^7.10.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.10.1",
     "@babel/preset-env": "^7.10.2",
+    "browserslist": "^4.16.5",
+    "glob-parent": "^5.1.2",
     "lodash": "^4.17.21"
   },
   "scripts": {
