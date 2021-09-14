@@ -11,7 +11,7 @@
     "browserslist": "^4.16.5",
     "glob-parent": "^5.1.2",
     "lodash": "^4.17.21",
-    "object-path": "^0.11.5"
+    "object-path": "^0.11.6"
   },
   "scripts": {
     "aula04": "babel ./aula04.js -o ./bundle_aula04.js",
