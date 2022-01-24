@@ -2298,9 +2298,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.4.17:
-  version "1.4.51"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.51.tgz#a432f5a5d983ace79278a33057300cf949627e63"
-  integrity sha512-JNEmcYl3mk1tGQmy0EvL5eik/CKSBuzAyGP0QFdG6LIgxQe3II0BL1m2zKc2MZMf3uGqHWE1TFddJML0RpjSHQ==
+  version "1.4.52"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.52.tgz#ce44c6d6cc449e7688a4356b8c261cfeafa26833"
+  integrity sha512-JGkh8HEh5PnVrhU4HbpyyO0O791dVY6k7AdqfDeqbcRMeoGxtNHWT77deR2nhvbLe4dKpxjlDEvdEwrvRLGu2Q==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
@@ -4911,7 +4911,7 @@ nocache@^2.1.0:
   resolved "https://registry.yarnpkg.com/nocache/-/nocache-2.1.0.tgz#120c9ffec43b5729b1d5de88cd71aa75a0ba491f"
   integrity sha512-0L9FvHG3nfnnmaEQPjT9xhfN4ISk0A8/2j4M37Np4mcDesJjHgEUfgPhdCyZuFI954tjokaIj/A3NdpFNdEh4Q==
 
-node-fetch@2.6.7, node-fetch@^2.2.0, node-fetch@^2.6.0, node-fetch@^2.6.1:
+node-fetch@2.6.7, node-fetch@^2.2.0, node-fetch@^2.6.0, node-fetch@^2.6.7:
   version "2.6.7"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.7.tgz#24de9fba827e3b4ae44dc8b20256a379160052ad"
   integrity sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==
@@ -5296,9 +5296,9 @@ pify@^4.0.1:
   integrity sha512-uB80kBFb/tfd68bVleG9T5GGsGPjJrLAUpR5PZIrhBnIaRTQRjqdJSsIKkOP6OAIFbj7GOrcudc5pNjZ+geV2g==
 
 pirates@^4.0.0, pirates@^4.0.1:
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/pirates/-/pirates-4.0.4.tgz#07df81e61028e402735cdd49db701e4885b4e6e6"
-  integrity sha512-ZIrVPH+A52Dw84R0L3/VS9Op04PuQ2SEoJL6bkshmiTic/HldyW9Tf7oH5mhJZBK7NmDx27vSMrYEXPXclpDKw==
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/pirates/-/pirates-4.0.5.tgz#feec352ea5c3268fb23a37c702ab1699f35a5f3b"
+  integrity sha512-8V9+HQPupnaXMA23c5hvl69zXvTwTzyAYasnkb0Tts4XvO4CliqONMOnvlq26rkhLC3nWDFBJf73LU1e1VZLaQ==
 
 pkg-dir@^3.0.0:
   version "3.0.0"
@@ -5444,9 +5444,9 @@ range-parser@~1.2.1:
   integrity sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==
 
 react-devtools-core@^4.0.6:
-  version "4.22.1"
-  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.22.1.tgz#b276d42f860bedc373c9b3c0f5f96734318dd453"
-  integrity sha512-pvpNDHE7p0FtcCmIWGazoY8LLVfBI9sw0Kf10kdHhPI9Tzt3OG/qEt16GrAbE0keuna5WzX3r1qPKVjqOqsuUg==
+  version "4.23.0"
+  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.23.0.tgz#dff9d12202a472ef62632203d6de3877dc6e58be"
+  integrity sha512-KkzneT1LczFtebbTJlvRphIRvzuHLhI9ghfrseVv9ktBs+l2cXy8Svw5U16lzQnwU9okVEcURmGPgH79WWrlaw==
   dependencies:
     shell-quote "^1.6.1"
     ws "^7"
